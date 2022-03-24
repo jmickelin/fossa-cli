@@ -1,5 +1,9 @@
 # Fossa CLI Changelog
 
+## Unreleased
+
+- Capture peer dependencies transitively for npm `package-lock.json` files. ([#849](https://github.com/fossas/fossa-cli/pull/849))
+
 ## v3.1.6
 - Respects Go module replacement directives in the Go Mod Graph strategy. ([#841](https://github.com/fossas/fossa-cli/pull/841)) 
 
